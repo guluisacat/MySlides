@@ -1,3 +1,6 @@
+Blog in English: https://imlzq.com/android/fuzzing/unicorn/tee/2024/05/29/Dive-Into-Android-TA-BugHunting-And-Fuzzing.html
+
+
 - https://mp.weixin.qq.com/s/591Zt6Yk55i8ugOjC5Hy6w
 
   Kanxue SDC 2023 : 深入 Android 可信应用漏洞挖掘
